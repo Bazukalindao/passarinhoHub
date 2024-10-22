@@ -2537,7 +2537,7 @@ OrionLib:MakeNotification({
 
 local W = Window:MakeTab({
     Name = "Welcome",
-    Icon = "",
+    Icon = "rbxassetid://119980140458596",
     PremiumOnly = false
 })
 
